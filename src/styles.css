@@ -1,0 +1,48 @@
+body {
+  background-color: #F2F3FF; /* Fondo principal */
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: white;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #000000; /* Título */
+}
+
+.input-group input {
+  border: 1px solid #8E8E8E; /* Color del borde */
+}
+
+.btn-primary {
+  background-color: #7E94FF; /* Color del botón */
+  border: none;
+}
+
+.table {
+  margin-top: 20px;
+}
+
+.table th {
+  background-color: #7E94FF;
+  color: white;
+}
+
+.table td {
+  background-color: #F2F3FF;
+}
+
+.card {
+  background-color: #f2f3ff; /* Color de fondo */
+  border: 1px solid #8e8e8e; /* Bordes */
+}
+
+button.btn.btn-success.mb-3 {
+    background-color: #7e94ff;
+    border-color: #7e94ff;
+}
